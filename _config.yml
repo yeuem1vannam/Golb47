@@ -11,7 +11,7 @@ url: https://games.yeuem1vannam.com
 # Owner/author information
 owner:
   name:           Phuong 'J' Le H.
-  avatar:         avatar.jpg
+  avatar:         about-me.jpg
   bio:            "Developer & Tôi là người thích chơi game."
   email:          phuonglh0420@gmail.com
   # Social networking links used in footer. Update and remove as you like.
@@ -63,6 +63,8 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
+feed:
+  path: atom.xml
 include: 
   - .htaccess
 exclude: 
