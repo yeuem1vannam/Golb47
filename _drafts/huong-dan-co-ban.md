@@ -3,7 +3,7 @@ layout: post
 title: "Hướng dẫn cơ bản"
 description: "Hướng dẫn cơ bản cho người mới chơi"
 category: vltkm
-tags: [vltkm, huong-dan]
+tags: [võ lâm truyền kỳ mobile, hướng dẫn]
 image:
   feature: vltkm-nga-mi.jpg
   credit: Zing.vn
