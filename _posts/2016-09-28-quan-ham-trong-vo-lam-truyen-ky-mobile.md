@@ -3,12 +3,14 @@ layout: post
 title: 'Quân hàm trong Võ Lâm Truyền Kỳ mobile'
 category: vltkm
 tags: [võ lâm truyền kỳ mobile, hướng dẫn]
+modified: 2016-09-30
 image:
   feature: vltkm-page1.jpg
   credit: jxqy
   creditlink: http://jxqy.qq.com
 ---
 Quân hàm có thể coi là biểu tượng của sức mạnh trong Võ Lâm Truyền Kỳ mobile, không chỉ phụ thuộc vào lực chiến mà người sở hữu quân hàm đồng thời còn phải có một số lượng Minh Chủ Lệnh nhất định.  
+<!-- more -->
 Table dưới đây là định mức của các Quân Hàm:
 
 | Cấp | Tên | Lực Chiến | Minh Chủ Lệnh | Hiệu ứng |

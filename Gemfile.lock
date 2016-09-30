@@ -61,6 +61,7 @@ DEPENDENCIES
   jekyll-gist
   jekyll-paginate
   jekyll-sitemap
+  jekyll-watch
   json
 
 BUNDLED WITH
