@@ -32,7 +32,7 @@ permalink: /cv.html
 </div>
 
 ## CAREER OBJECTIVE
-Searching for opportunity to dirve my 4+ years of widely experience into deeply
+Switching to deepen and sharpen my 4+ years experience in width.
 
 ## SENIOR PROGRAMMER
 
@@ -199,6 +199,8 @@ Searching for opportunity to dirve my 4+ years of widely experience into deeply
   </tr>
   <tr>
     <td>
+      A special toyset which allow children to create programable robots. A
+visualize tool to help them expose their imagination and
       <ul>
         <li>Ruby on Rails, MySQL, DynamoDB, EMR, AWS, ElasticSearch, ReactJS</li>
         <li>Work directly with customer to define the system architecture</li>
